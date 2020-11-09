@@ -23,5 +23,11 @@
         "buttonText": "Read More",
         "redirectURL": "https://google.com/",
         "imgURL": ""
+      },{
+        "title": "XYZ Paints, India",
+        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
+        "buttonText": "Read More",
+        "redirectURL": "https://google.com/",
+        "imgURL": ""
       }]
 }
