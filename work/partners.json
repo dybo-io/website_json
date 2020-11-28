@@ -3,31 +3,26 @@
         "title": "MicroD Inc, USA",
         "content": "All we require is some basic product data- pictures, dimensions, sketches, or whatever you think describes your product is enough for us.",
         "buttonText": "GET STARTED",
-        "redirectURL": "https://google.com/",
         "imgURLs": ["1.jpg", "2.jpg", "3.jpg"]
       },{
         "title": "Giovanni Boutique Furniture, India",
         "content": "We boast about our technology because it’s an insane experience that has been shaped by behavioural science.",
         "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
         "imgURLs": ["4.jpg", "1.jpg", "2.jpg"]
       },{
         "title": "Marv Furniture, India",
         "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
         "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
         "imgURLs": ["5.jpg", "4.jpg", "1.jpg"]
       },{
         "title": "Asian Paints, India",
         "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
         "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
         "imgURLs": ["6.jpg", "5.jpg", "4.jpg"]
       },{
         "title": "XYZ Paints, India",
         "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
         "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
         "imgURLs": ["3.jpg", "6.jpg", "5.jpg"]
       }]
 }
