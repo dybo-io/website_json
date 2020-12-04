@@ -1,28 +1,23 @@
 {
     "partnersArray": [{
-        "title": "MicroD Inc, USA",
-        "content": "All we require is some basic product data- pictures, dimensions, sketches, or whatever you think describes your product is enough for us.",
-        "buttonText": "GET STARTED",
-        "imgURLs": ["1.jpg", "2.jpg", "3.jpg"]
+        "title": "Giovanni Boutique Furniture",
+        "content": "In 2020, Giovanni launched their AR app, a first of it’s kind, and changed the game of customer experience in the furniture industry forever.",
+        "buttonText": "EXPLORE MORE",
+        "imgURLs": ["GBF000001_Lifestyle.png", "Chair_OPT_01 (1).png", "Multiple fabric selection- with menu – 1.png"]
       },{
-        "title": "Giovanni Boutique Furniture, India",
-        "content": "We boast about our technology because it’s an insane experience that has been shaped by behavioural science.",
-        "buttonText": "Read More",
-        "imgURLs": ["4.jpg", "1.jpg", "2.jpg"]
+        "title": "Marv Furniture Mind",
+        "content": "Marv team has been launching products faster and dominating furniture sales across all online marketplaces.",
+        "buttonText": "EXPLORE MORE",
+        "imgURLs": ["fu5 fu19.png", "GBF000001_Lifestyle.png", "Chair_OPT_01 (1).png"]
       },{
-        "title": "Marv Furniture, India",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "imgURLs": ["5.jpg", "4.jpg", "1.jpg"]
+        "title": "Prime Living",
+        "content": "Using the Prime Living App, their retailers show fabric applications & combinations instantly to their customers and sell faster than before.",
+        "buttonText": "EXPLORE MORE",
+        "imgURLs": ["Multiple fabric selection- with menu – 1.png", "fu5 fu19.png", "GBF000001_Lifestyle.png"]
       },{
-        "title": "Asian Paints, India",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "imgURLs": ["6.jpg", "5.jpg", "4.jpg"]
-      },{
-        "title": "XYZ Paints, India",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "imgURLs": ["3.jpg", "6.jpg", "5.jpg"]
+        "title": "TheArmchair",
+        "content": "Dybo closely works with TheArmchair team to create inspiring visuals of their furniture in various fabrics and finishes to suit all their marketing requirements.",
+        "buttonText": "EXPLORE MORE",
+        "imgURLs": ["Chair_OPT_01 (1).png", "Multiple fabric selection- with menu – 1.png", "fu5 fu19.png"]
       }]
 }
