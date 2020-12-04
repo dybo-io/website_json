@@ -1,57 +1,28 @@
 {
     "blogPostArray": [{
-        "title": "helloVoRld raises 1.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
+        "title": "What is augmented reality and how is it changing the world?",
         "buttonText": "Read More",
         "redirectURL": "https://google.com/",
         "imgURL": ""
       },{
-        "title": "helloVoRld raises 2.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
+        "title": "What is augmented reality and how is it changing the world?",
         "buttonText": "Read More",
         "redirectURL": "https://google.com/",
         "imgURL": ""
       },{
-        "title": "helloVoRld raises 3.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
+        "title": "What is augmented reality and how is it changing the world?",
         "buttonText": "Read More",
         "redirectURL": "https://google.com/",
         "imgURL": ""
       },{
-        "title": "helloVoRld raises 4.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
+        "title": "What is augmented reality and how is it changing the world?",
         "buttonText": "Read More",
         "redirectURL": "https://google.com/",
         "imgURL": ""
       },{
-        "title": "helloVoRld raises 5.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
+        "title": "What is augmented reality and how is it changing the world?",
         "buttonText": "Read More",
         "redirectURL": "https://google.com/",
         "imgURL": ""
-      },{
-        "title": "helloVoRld raises 6.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
-        "imgURL": ""
-      },{
-        "title": "helloVoRld raises 7.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
-        "imgURL": ""
-      },{
-        "title": "helloVoRld raises 8.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
-        "imgURL": ""
-      },{
-        "title": "helloVoRld raises 9.25cr in seed funding",
-        "content": "Get stunning visuals of your products and their variations, which are perfect for all your marketing requirements.",
-        "buttonText": "Read More",
-        "redirectURL": "https://google.com/",
-        "imgURL": ""
-    }]
+      }]
 }
