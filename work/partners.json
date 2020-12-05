@@ -3,21 +3,21 @@
         "title": "Giovanni Boutique Furniture",
         "content": "In 2020, Giovanni launched their AR app, a first of it’s kind, and changed the game of customer experience in the furniture industry forever.",
         "buttonText": "EXPLORE MORE",
-        "imgURLs": ["GBF000001_Lifestyle.png", "Chair_OPT_01 (1).png", "Multiple fabric selection- with menu – 1.png"]
+        "imgURLs": ["./giovanni/main.JPG", "./giovanni/1.jpg", "./giovanni/2.jpg", "./giovanni/3.jpg", "./giovanni/4.jpg", "./giovanni/5.jpg", "./giovanni/6.jpg"]
       },{
         "title": "Marv Furniture Mind",
         "content": "Marv team has been launching products faster and dominating furniture sales across all online marketplaces.",
         "buttonText": "EXPLORE MORE",
-        "imgURLs": ["fu5 fu19.png", "GBF000001_Lifestyle.png", "Chair_OPT_01 (1).png"]
+        "imgURLs": ["./marv/main.tif", "./marv/1.jpg", "./marv/2.jpg", "./marv/3.jpg", "./marv/4.jpg", "./marv/5.jpg"]
       },{
         "title": "Prime Living",
         "content": "Using the Prime Living App, their retailers show fabric applications & combinations instantly to their customers and sell faster than before.",
         "buttonText": "EXPLORE MORE",
-        "imgURLs": ["Multiple fabric selection- with menu – 1.png", "fu5 fu19.png", "GBF000001_Lifestyle.png"]
+        "imgURLs": ["./prime_living/1.png", "./prime_living/2.jpg", "./prime_living/3.jpg", "./prime_living/4.jpg", "./prime_living/5.jpg", "./prime_living/6.jpg"]
       },{
         "title": "TheArmchair",
         "content": "Dybo closely works with TheArmchair team to create inspiring visuals of their furniture in various fabrics and finishes to suit all their marketing requirements.",
         "buttonText": "EXPLORE MORE",
-        "imgURLs": ["Chair_OPT_01 (1).png", "Multiple fabric selection- with menu – 1.png", "fu5 fu19.png"]
+        "imgURLs": ["./the-armchair/main.jpg", "./the-armchair/1.jpg", "./the-armchair/2.jpg", "./the-armchair/3.jpg", "./the-armchair/4.jpg", "./the-armchair/5.jpg"]
       }]
 }
