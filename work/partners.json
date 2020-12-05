@@ -18,6 +18,6 @@
         "title": "TheArmchair",
         "content": "Dybo closely works with TheArmchair team to create inspiring visuals of their furniture in various fabrics and finishes to suit all their marketing requirements.",
         "buttonText": "EXPLORE MORE",
-        "imgURLs": ["./the-armchair/main.jpg", "./the-armchair/1.jpg", "./the-armchair/2.jpg", "./the-armchair/3.jpg", "./the-armchair/4.jpg", "./the-armchair/5.jpg"]
+        "imgURLs": ["./the_armchair/main.jpg", "./the_armchair/1.jpg", "./the_armchair/2.jpg", "./the_armchair/3.jpg", "./the_armchair/4.jpg", "./the_armchair/5.jpg"]
       }]
 }
